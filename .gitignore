@@ -1,0 +1,14 @@
+# Ignore virtual environments
+.venv/
+venv/
+env/
+
+# Ignore PyCharm settings
+.idea/
+
+# Ignore compiled python files
+__pycache__/
+*.pyc
+
+# created by virtualenv automatically
+*
